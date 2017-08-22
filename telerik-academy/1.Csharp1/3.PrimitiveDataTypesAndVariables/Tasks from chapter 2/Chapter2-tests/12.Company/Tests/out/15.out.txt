@@ -1,0 +1,5 @@
+Mariq -> string
+Georgieva  -> string
+21  -> byte
+False  -> bool
+27568765  -> int

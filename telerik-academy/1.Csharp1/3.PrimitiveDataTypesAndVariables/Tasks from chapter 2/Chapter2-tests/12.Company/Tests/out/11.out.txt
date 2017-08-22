@@ -1,0 +1,5 @@
+Boyko -> string
+Borisov  -> string
+50  -> byte
+True  -> bool
+27560007  -> int

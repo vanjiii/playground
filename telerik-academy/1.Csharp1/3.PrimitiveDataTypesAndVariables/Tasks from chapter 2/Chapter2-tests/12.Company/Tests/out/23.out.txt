@@ -1,0 +1,5 @@
+Neli -> string
+Petkova  -> string
+28  -> byte
+False  -> bool
+27568736  -> int

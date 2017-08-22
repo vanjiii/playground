@@ -1,0 +1,5 @@
+Kiril -> string
+Popov  -> string
+19  -> byte
+True  -> bool
+27561234  -> int

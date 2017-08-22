@@ -1,0 +1,5 @@
+Gabriela -> string
+Mladenova  -> string
+22  -> byte
+False  -> bool
+27564567  -> int

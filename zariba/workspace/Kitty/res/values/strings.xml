@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kitty</string>
+    <string name="btn_get_request">Show Me Cat!</string>
+    <string name="btn_save_to_storage">Save</string>
+    <string name="btn_send_via_email">Send Via Email</string>
+
+</resources>

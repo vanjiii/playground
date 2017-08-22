@@ -1,0 +1,6 @@
+Did  ever wonder what Regular Expressions are all about and want to gain a basic understanding ?
+My goal is to get you up and running with a basic understanding of regular expressions within 30 minutes.
+The reality is that regular  aren't as  as they look.
+The best way to learn is to tesstart writing and experimenting.
+ your first half hour, you should know a few of the basic constructs and be able to design and use regular expressions in your programs or web pages. 
+For those of you  get hooked, there are many excellent resources available to further your . 

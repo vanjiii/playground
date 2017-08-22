@@ -1,0 +1,5 @@
+Silviq -> string
+Ivanova  -> string
+19  -> byte
+False  -> bool
+27569876  -> int

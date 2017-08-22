@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9gag", "9gag\9gag.csproj", "{04D507CF-5D06-4DED-AD30-EE0324CC1795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2BetterThan1", "2BetterThan1\2BetterThan1.csproj", "{FB9D6B8E-7D13-4F5F-97E8-88CFA1560D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoroTheRabbit", "JoroTheRabbit\JoroTheRabbit.csproj", "{1CCD89A5-DAD9-4FDB-BCF5-2B8DCABAB5C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D507CF-5D06-4DED-AD30-EE0324CC1795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D507CF-5D06-4DED-AD30-EE0324CC1795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D507CF-5D06-4DED-AD30-EE0324CC1795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D507CF-5D06-4DED-AD30-EE0324CC1795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9D6B8E-7D13-4F5F-97E8-88CFA1560D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9D6B8E-7D13-4F5F-97E8-88CFA1560D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9D6B8E-7D13-4F5F-97E8-88CFA1560D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9D6B8E-7D13-4F5F-97E8-88CFA1560D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCD89A5-DAD9-4FDB-BCF5-2B8DCABAB5C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCD89A5-DAD9-4FDB-BCF5-2B8DCABAB5C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCD89A5-DAD9-4FDB-BCF5-2B8DCABAB5C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCD89A5-DAD9-4FDB-BCF5-2B8DCABAB5C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

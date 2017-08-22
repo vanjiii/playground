@@ -1,0 +1,5 @@
+Pesho -> string
+Petrov  -> string
+25  -> byte
+True  -> bool
+27560011  -> int

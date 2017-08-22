@@ -1,0 +1,5 @@
+Emanuela -> string
+Koleva  -> string
+28  -> byte
+False  -> bool
+27565522  -> int

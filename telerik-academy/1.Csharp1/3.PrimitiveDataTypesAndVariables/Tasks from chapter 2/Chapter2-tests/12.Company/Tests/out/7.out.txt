@@ -1,0 +1,5 @@
+Plamen -> string
+Konstantinov  -> string
+44  -> byte
+True  -> bool
+27560800  -> int

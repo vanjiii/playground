@@ -1,0 +1,5 @@
+Cvetelina -> string
+Qneva  -> string
+24  -> byte
+False  -> bool
+27564585  -> int

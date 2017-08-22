@@ -1,0 +1,5 @@
+Preslava  -> string
+Plamenova  -> string
+27  -> byte
+False  -> bool
+27563265  -> int

@@ -1,0 +1,5 @@
+Doncho -> string
+Minkov  -> string
+23  -> byte
+True  -> bool
+27560002  -> int

@@ -1,0 +1,3441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="bin">
+        <df name="debug">
+          <df name="android">
+          </df>
+        </df>
+        <df name="Resources">
+          <df name="fonts">
+          </df>
+        </df>
+      </df>
+      <df name="Classes">
+        <df name="PRKit">
+          <in>PRFilledPolygon.h</in>
+          <in>PRFilledPolygon.m</in>
+          <in>PRRatcliffTriangulator.h</in>
+          <in>PRRatcliffTriangulator.mm</in>
+          <in>PRTriangulator.h</in>
+          <in>triangulate.cpp</in>
+          <in>triangulate.h</in>
+        </df>
+        <in>AppDelegate.cpp</in>
+        <in>AppDelegate.h</in>
+        <in>AppMacros.h</in>
+        <in>Blender.cpp</in>
+        <in>Blender.h</in>
+        <in>IceMachine.cpp</in>
+        <in>IceMachine.h</in>
+        <in>MainMenu.cpp</in>
+        <in>MainMenu.h</in>
+        <in>SliceTheFruits.cpp</in>
+        <in>SliceTheFruits.h</in>
+        <in>YogurtMachine.cpp</in>
+        <in>YogurtMachine.h</in>
+      </df>
+      <df name="CMakeFiles">
+        <df name="2.8.12.2">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <df name="CMakeTmp">
+        </df>
+        <df name="MyGame.dir">
+          <df name="Classes">
+          </df>
+          <df name="proj.linux">
+          </df>
+        </df>
+        <df name="MyGame_CORE_PRE_BUILD.dir">
+        </df>
+        <df name="MyGame_PRE_BUILD.dir">
+        </df>
+      </df>
+      <df name="cocos2d">
+        <df name="build">
+          <df name="cocos2d_libs.xcodeproj">
+          </df>
+          <df name="cocos2d_tests.xcodeproj">
+          </df>
+          <df name="winrt">
+            <df name="Cocos2dShaderCompiler">
+              <df name="Assets">
+              </df>
+              <in>App.xaml.cpp</in>
+              <in>App.xaml.h</in>
+              <in>DirectXPage.xaml.cpp</in>
+              <in>DirectXPage.xaml.h</in>
+              <in>ShaderCompiler.cpp</in>
+              <in>ShaderCompiler.h</in>
+              <in>pch.cpp</in>
+              <in>pch.h</in>
+            </df>
+            <df name="scripts">
+              <df name="templates">
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="cocos">
+          <df name="2d">
+            <in>CCAction.cpp</in>
+            <in>CCAction.h</in>
+            <in>CCActionCamera.cpp</in>
+            <in>CCActionCamera.h</in>
+            <in>CCActionCatmullRom.cpp</in>
+            <in>CCActionCatmullRom.h</in>
+            <in>CCActionEase.cpp</in>
+            <in>CCActionEase.h</in>
+            <in>CCActionGrid.cpp</in>
+            <in>CCActionGrid.h</in>
+            <in>CCActionGrid3D.cpp</in>
+            <in>CCActionGrid3D.h</in>
+            <in>CCActionInstant.cpp</in>
+            <in>CCActionInstant.h</in>
+            <in>CCActionInterval.cpp</in>
+            <in>CCActionInterval.h</in>
+            <in>CCActionManager.cpp</in>
+            <in>CCActionManager.h</in>
+            <in>CCActionPageTurn3D.cpp</in>
+            <in>CCActionPageTurn3D.h</in>
+            <in>CCActionProgressTimer.cpp</in>
+            <in>CCActionProgressTimer.h</in>
+            <in>CCActionTiledGrid.cpp</in>
+            <in>CCActionTiledGrid.h</in>
+            <in>CCActionTween.cpp</in>
+            <in>CCActionTween.h</in>
+            <in>CCAnimation.cpp</in>
+            <in>CCAnimation.h</in>
+            <in>CCAnimationCache.cpp</in>
+            <in>CCAnimationCache.h</in>
+            <in>CCAtlasNode.cpp</in>
+            <in>CCAtlasNode.h</in>
+            <in>CCClippingNode.cpp</in>
+            <in>CCClippingNode.h</in>
+            <in>CCComponent.cpp</in>
+            <in>CCComponent.h</in>
+            <in>CCComponentContainer.cpp</in>
+            <in>CCComponentContainer.h</in>
+            <in>CCDrawNode.cpp</in>
+            <in>CCDrawNode.h</in>
+            <in>CCDrawingPrimitives.cpp</in>
+            <in>CCDrawingPrimitives.h</in>
+            <in>CCFastTMXLayer.cpp</in>
+            <in>CCFastTMXLayer.h</in>
+            <in>CCFastTMXTiledMap.cpp</in>
+            <in>CCFastTMXTiledMap.h</in>
+            <in>CCFont.cpp</in>
+            <in>CCFont.h</in>
+            <in>CCFontAtlas.cpp</in>
+            <in>CCFontAtlas.h</in>
+            <in>CCFontAtlasCache.cpp</in>
+            <in>CCFontAtlasCache.h</in>
+            <in>CCFontCharMap.cpp</in>
+            <in>CCFontCharMap.h</in>
+            <in>CCFontFNT.cpp</in>
+            <in>CCFontFNT.h</in>
+            <in>CCFontFreeType.cpp</in>
+            <in>CCFontFreeType.h</in>
+            <in>CCGLBufferedNode.cpp</in>
+            <in>CCGLBufferedNode.h</in>
+            <in>CCGrabber.cpp</in>
+            <in>CCGrabber.h</in>
+            <in>CCGrid.cpp</in>
+            <in>CCGrid.h</in>
+            <in>CCLabel.cpp</in>
+            <in>CCLabel.h</in>
+            <in>CCLabelAtlas.cpp</in>
+            <in>CCLabelAtlas.h</in>
+            <in>CCLabelBMFont.cpp</in>
+            <in>CCLabelBMFont.h</in>
+            <in>CCLabelTTF.cpp</in>
+            <in>CCLabelTTF.h</in>
+            <in>CCLabelTextFormatter.cpp</in>
+            <in>CCLabelTextFormatter.h</in>
+            <in>CCLayer.cpp</in>
+            <in>CCLayer.h</in>
+            <in>CCMenu.cpp</in>
+            <in>CCMenu.h</in>
+            <in>CCMenuItem.cpp</in>
+            <in>CCMenuItem.h</in>
+            <in>CCMotionStreak.cpp</in>
+            <in>CCMotionStreak.h</in>
+            <in>CCNode.cpp</in>
+            <in>CCNode.h</in>
+            <in>CCNodeGrid.cpp</in>
+            <in>CCNodeGrid.h</in>
+            <in>CCParallaxNode.cpp</in>
+            <in>CCParallaxNode.h</in>
+            <in>CCParticleBatchNode.cpp</in>
+            <in>CCParticleBatchNode.h</in>
+            <in>CCParticleExamples.cpp</in>
+            <in>CCParticleExamples.h</in>
+            <in>CCParticleSystem.cpp</in>
+            <in>CCParticleSystem.h</in>
+            <in>CCParticleSystemQuad.cpp</in>
+            <in>CCParticleSystemQuad.h</in>
+            <in>CCProgressTimer.cpp</in>
+            <in>CCProgressTimer.h</in>
+            <in>CCRenderTexture.cpp</in>
+            <in>CCRenderTexture.h</in>
+            <in>CCScene.cpp</in>
+            <in>CCScene.h</in>
+            <in>CCSprite.cpp</in>
+            <in>CCSprite.h</in>
+            <in>CCSpriteBatchNode.cpp</in>
+            <in>CCSpriteBatchNode.h</in>
+            <in>CCSpriteFrame.cpp</in>
+            <in>CCSpriteFrame.h</in>
+            <in>CCSpriteFrameCache.cpp</in>
+            <in>CCSpriteFrameCache.h</in>
+            <in>CCTMXLayer.cpp</in>
+            <in>CCTMXLayer.h</in>
+            <in>CCTMXObjectGroup.cpp</in>
+            <in>CCTMXObjectGroup.h</in>
+            <in>CCTMXTiledMap.cpp</in>
+            <in>CCTMXTiledMap.h</in>
+            <in>CCTMXXMLParser.cpp</in>
+            <in>CCTMXXMLParser.h</in>
+            <in>CCTextFieldTTF.cpp</in>
+            <in>CCTextFieldTTF.h</in>
+            <in>CCTileMapAtlas.cpp</in>
+            <in>CCTileMapAtlas.h</in>
+            <in>CCTransition.cpp</in>
+            <in>CCTransition.h</in>
+            <in>CCTransitionPageTurn.cpp</in>
+            <in>CCTransitionPageTurn.h</in>
+            <in>CCTransitionProgress.cpp</in>
+            <in>CCTransitionProgress.h</in>
+            <in>CCTweenFunction.cpp</in>
+            <in>CCTweenFunction.h</in>
+          </df>
+          <df name="3d">
+            <in>CCAnimate3D.cpp</in>
+            <in>CCAnimate3D.h</in>
+            <in>CCAnimation3D.cpp</in>
+            <in>CCAnimation3D.h</in>
+            <in>CCAnimationCurve.h</in>
+            <in>CCAnimationCurve.inl</in>
+            <in>CCBundle3D.cpp</in>
+            <in>CCBundle3D.h</in>
+            <in>CCBundle3DData.h</in>
+            <in>CCBundleReader.cpp</in>
+            <in>CCBundleReader.h</in>
+            <in>CCMesh.cpp</in>
+            <in>CCMesh.h</in>
+            <in>CCMeshSkin.cpp</in>
+            <in>CCMeshSkin.h</in>
+            <in>CCObjLoader.cpp</in>
+            <in>CCObjLoader.h</in>
+            <in>CCSprite3D.cpp</in>
+            <in>CCSprite3D.h</in>
+            <in>CCSprite3DMaterial.cpp</in>
+            <in>CCSprite3DMaterial.h</in>
+          </df>
+          <df name="audio">
+            <df name="android">
+              <df name="jni">
+                <in>cddandroidAndroidJavaEngine.cpp</in>
+                <in>cddandroidAndroidJavaEngine.h</in>
+              </df>
+              <in>ccdandroidUtils.cpp</in>
+              <in>ccdandroidUtils.h</in>
+              <in>cddSimpleAudioEngine.cpp</in>
+            </df>
+            <df name="CMakeFiles">
+              <df name="audio.dir">
+                <df name="linux">
+                </df>
+              </df>
+            </df>
+            <df name="include">
+              <in>Export.h</in>
+              <in>SimpleAudioEngine.h</in>
+            </df>
+            <df name="ios">
+              <in>CDAudioManager.h</in>
+              <in>CDAudioManager.m</in>
+              <in>CDConfig.h</in>
+              <in>CDOpenALSupport.h</in>
+              <in>CDOpenALSupport.m</in>
+              <in>CocosDenshion.h</in>
+              <in>CocosDenshion.m</in>
+              <in>SimpleAudioEngine.mm</in>
+              <in>SimpleAudioEngine_objc.h</in>
+              <in>SimpleAudioEngine_objc.m</in>
+            </df>
+            <df name="linux">
+              <in>AudioPlayer.h</in>
+              <in>FmodAudioPlayer.cpp</in>
+              <in>FmodAudioPlayer.h</in>
+              <in>SimpleAudioEngineFMOD.cpp</in>
+            </df>
+            <df name="mac">
+              <in>CDAudioManager.h</in>
+              <in>CDAudioManager.m</in>
+              <in>CDConfig.h</in>
+              <in>CDOpenALSupport.h</in>
+              <in>CDOpenALSupport.m</in>
+              <in>CDXMacOSXSupport.h</in>
+              <in>CDXMacOSXSupport.mm</in>
+              <in>CocosDenshion.h</in>
+              <in>CocosDenshion.m</in>
+              <in>SimpleAudioEngine.mm</in>
+              <in>SimpleAudioEngine_objc.h</in>
+              <in>SimpleAudioEngine_objc.m</in>
+            </df>
+            <df name="openal">
+              <in>OpenALDecoder.cpp</in>
+              <in>OpenALDecoder.h</in>
+              <in>SimpleAudioEngineOpenAL.cpp</in>
+            </df>
+            <df name="proj.win32">
+            </df>
+            <df name="proj.wp8">
+            </df>
+            <df name="win32">
+              <in>MciPlayer.cpp</in>
+              <in>MciPlayer.h</in>
+              <in>SimpleAudioEngine.cpp</in>
+            </df>
+            <df name="winrt">
+              <in>Audio.cpp</in>
+              <in>Audio.h</in>
+              <in>MediaStreamer.cpp</in>
+              <in>MediaStreamer.h</in>
+              <in>SimpleAudioEngine.cpp</in>
+            </df>
+            <df name="wp8">
+              <in>Audio.cpp</in>
+              <in>Audio.h</in>
+              <in>MediaStreamer.cpp</in>
+              <in>MediaStreamer.h</in>
+              <in>SimpleAudioEngine.cpp</in>
+            </df>
+          </df>
+          <df name="base">
+            <in>CCAutoreleasePool.cpp</in>
+            <in>CCAutoreleasePool.h</in>
+            <in>CCConfiguration.cpp</in>
+            <in>CCConfiguration.h</in>
+            <in>CCConsole.cpp</in>
+            <in>CCConsole.h</in>
+            <in>CCController-android.cpp</in>
+            <in>CCController-iOS.mm</in>
+            <in>CCController.cpp</in>
+            <in>CCController.h</in>
+            <in>CCData.cpp</in>
+            <in>CCData.h</in>
+            <in>CCDataVisitor.cpp</in>
+            <in>CCDataVisitor.h</in>
+            <in>CCDirector.cpp</in>
+            <in>CCDirector.h</in>
+            <in>CCEvent.cpp</in>
+            <in>CCEvent.h</in>
+            <in>CCEventAcceleration.cpp</in>
+            <in>CCEventAcceleration.h</in>
+            <in>CCEventController.cpp</in>
+            <in>CCEventController.h</in>
+            <in>CCEventCustom.cpp</in>
+            <in>CCEventCustom.h</in>
+            <in>CCEventDispatcher.cpp</in>
+            <in>CCEventDispatcher.h</in>
+            <in>CCEventFocus.cpp</in>
+            <in>CCEventFocus.h</in>
+            <in>CCEventKeyboard.cpp</in>
+            <in>CCEventKeyboard.h</in>
+            <in>CCEventListener.cpp</in>
+            <in>CCEventListener.h</in>
+            <in>CCEventListenerAcceleration.cpp</in>
+            <in>CCEventListenerAcceleration.h</in>
+            <in>CCEventListenerController.cpp</in>
+            <in>CCEventListenerController.h</in>
+            <in>CCEventListenerCustom.cpp</in>
+            <in>CCEventListenerCustom.h</in>
+            <in>CCEventListenerFocus.cpp</in>
+            <in>CCEventListenerFocus.h</in>
+            <in>CCEventListenerKeyboard.cpp</in>
+            <in>CCEventListenerKeyboard.h</in>
+            <in>CCEventListenerMouse.cpp</in>
+            <in>CCEventListenerMouse.h</in>
+            <in>CCEventListenerTouch.cpp</in>
+            <in>CCEventListenerTouch.h</in>
+            <in>CCEventMouse.cpp</in>
+            <in>CCEventMouse.h</in>
+            <in>CCEventTouch.cpp</in>
+            <in>CCEventTouch.h</in>
+            <in>CCEventType.h</in>
+            <in>CCGameController.h</in>
+            <in>CCIMEDelegate.h</in>
+            <in>CCIMEDispatcher.cpp</in>
+            <in>CCIMEDispatcher.h</in>
+            <in>CCMap.h</in>
+            <in>CCNS.cpp</in>
+            <in>CCNS.h</in>
+            <in>CCPlatformConfig.h</in>
+            <in>CCPlatformMacros.h</in>
+            <in>CCProfiling.cpp</in>
+            <in>CCProfiling.h</in>
+            <in>CCProtocols.h</in>
+            <in>CCRef.cpp</in>
+            <in>CCRef.h</in>
+            <in>CCRefPtr.h</in>
+            <in>CCScheduler.cpp</in>
+            <in>CCScheduler.h</in>
+            <in>CCScriptSupport.cpp</in>
+            <in>CCScriptSupport.h</in>
+            <in>CCTouch.cpp</in>
+            <in>CCTouch.h</in>
+            <in>CCUserDefault.cpp</in>
+            <in>CCUserDefault.h</in>
+            <in>CCUserDefault.mm</in>
+            <in>CCUserDefaultAndroid.cpp</in>
+            <in>CCValue.cpp</in>
+            <in>CCValue.h</in>
+            <in>CCVector.h</in>
+            <in>ObjectFactory.cpp</in>
+            <in>ObjectFactory.h</in>
+            <in>TGAlib.cpp</in>
+            <in>TGAlib.h</in>
+            <in>ZipUtils.cpp</in>
+            <in>ZipUtils.h</in>
+            <in>atitc.cpp</in>
+            <in>atitc.h</in>
+            <in>base64.cpp</in>
+            <in>base64.h</in>
+            <in>ccCArray.cpp</in>
+            <in>ccCArray.h</in>
+            <in>ccConfig.h</in>
+            <in>ccFPSImages.c</in>
+            <in>ccFPSImages.h</in>
+            <in>ccMacros.h</in>
+            <in>ccTypes.cpp</in>
+            <in>ccTypes.h</in>
+            <in>ccUTF8.cpp</in>
+            <in>ccUTF8.h</in>
+            <in>ccUtils.cpp</in>
+            <in>ccUtils.h</in>
+            <in>etc1.cpp</in>
+            <in>etc1.h</in>
+            <in>firePngData.h</in>
+            <in>pvr.cpp</in>
+            <in>pvr.h</in>
+            <in>s3tc.cpp</in>
+            <in>s3tc.h</in>
+            <in>uthash.h</in>
+            <in>utlist.h</in>
+          </df>
+          <df name="CMakeFiles">
+            <df name="cocos2d.dir">
+              <df name="2d">
+              </df>
+              <df name="3d">
+              </df>
+              <df name="__">
+                <df name="external">
+                  <df name="ConvertUTF">
+                  </df>
+                  <df name="edtaa3func">
+                  </df>
+                </df>
+              </df>
+              <df name="base">
+              </df>
+              <df name="deprecated">
+              </df>
+              <df name="math">
+              </df>
+              <df name="network">
+              </df>
+              <df name="physics">
+                <df name="chipmunk">
+                </df>
+              </df>
+              <df name="platform">
+                <df name="desktop">
+                </df>
+                <df name="linux">
+                </df>
+              </df>
+              <df name="renderer">
+              </df>
+              <df name="storage">
+                <df name="local-storage">
+                </df>
+              </df>
+              <df name="ui">
+              </df>
+            </df>
+          </df>
+          <df name="deprecated">
+            <in>CCArray.cpp</in>
+            <in>CCArray.h</in>
+            <in>CCBool.h</in>
+            <in>CCDeprecated.cpp</in>
+            <in>CCDeprecated.h</in>
+            <in>CCDictionary.cpp</in>
+            <in>CCDictionary.h</in>
+            <in>CCDouble.h</in>
+            <in>CCFloat.h</in>
+            <in>CCInteger.h</in>
+            <in>CCNotificationCenter.cpp</in>
+            <in>CCNotificationCenter.h</in>
+            <in>CCSet.cpp</in>
+            <in>CCSet.h</in>
+            <in>CCString.cpp</in>
+            <in>CCString.h</in>
+          </df>
+          <df name="editor-support">
+            <df name="cocosbuilder">
+              <df name="CMakeFiles">
+                <df name="cocosbuilder.dir">
+                </df>
+              </df>
+              <df name="proj.win32">
+              </df>
+              <df name="proj.wp8">
+                <in>pch.cpp</in>
+                <in>pch.h</in>
+              </df>
+              <in>CCBAnimationManager.cpp</in>
+              <in>CCBAnimationManager.h</in>
+              <in>CCBFileLoader.cpp</in>
+              <in>CCBFileLoader.h</in>
+              <in>CCBKeyframe.cpp</in>
+              <in>CCBKeyframe.h</in>
+              <in>CCBMemberVariableAssigner.h</in>
+              <in>CCBReader.cpp</in>
+              <in>CCBReader.h</in>
+              <in>CCBSelectorResolver.h</in>
+              <in>CCBSequence.cpp</in>
+              <in>CCBSequence.h</in>
+              <in>CCBSequenceProperty.cpp</in>
+              <in>CCBSequenceProperty.h</in>
+              <in>CCControlButtonLoader.cpp</in>
+              <in>CCControlButtonLoader.h</in>
+              <in>CCControlLoader.cpp</in>
+              <in>CCControlLoader.h</in>
+              <in>CCLabelBMFontLoader.cpp</in>
+              <in>CCLabelBMFontLoader.h</in>
+              <in>CCLabelTTFLoader.cpp</in>
+              <in>CCLabelTTFLoader.h</in>
+              <in>CCLayerColorLoader.cpp</in>
+              <in>CCLayerColorLoader.h</in>
+              <in>CCLayerGradientLoader.cpp</in>
+              <in>CCLayerGradientLoader.h</in>
+              <in>CCLayerLoader.cpp</in>
+              <in>CCLayerLoader.h</in>
+              <in>CCMenuItemImageLoader.cpp</in>
+              <in>CCMenuItemImageLoader.h</in>
+              <in>CCMenuItemLoader.cpp</in>
+              <in>CCMenuItemLoader.h</in>
+              <in>CCMenuLoader.h</in>
+              <in>CCNode+CCBRelativePositioning.cpp</in>
+              <in>CCNode+CCBRelativePositioning.h</in>
+              <in>CCNodeLoader.cpp</in>
+              <in>CCNodeLoader.h</in>
+              <in>CCNodeLoaderLibrary.cpp</in>
+              <in>CCNodeLoaderLibrary.h</in>
+              <in>CCNodeLoaderListener.h</in>
+              <in>CCParticleSystemQuadLoader.cpp</in>
+              <in>CCParticleSystemQuadLoader.h</in>
+              <in>CCScale9SpriteLoader.cpp</in>
+              <in>CCScale9SpriteLoader.h</in>
+              <in>CCScrollViewLoader.cpp</in>
+              <in>CCScrollViewLoader.h</in>
+              <in>CCSpriteLoader.cpp</in>
+              <in>CCSpriteLoader.h</in>
+              <in>CocosBuilder.h</in>
+            </df>
+            <df name="cocostudio">
+              <df name="ActionTimeline">
+                <in>CCActionTimeline.cpp</in>
+                <in>CCActionTimeline.h</in>
+                <in>CCActionTimelineCache.cpp</in>
+                <in>CCActionTimelineCache.h</in>
+                <in>CCFrame.cpp</in>
+                <in>CCFrame.h</in>
+                <in>CCNodeReader.cpp</in>
+                <in>CCNodeReader.h</in>
+                <in>CCTimeLine.cpp</in>
+                <in>CCTimeLine.h</in>
+                <in>CCTimelineMacro.h</in>
+              </df>
+              <df name="CMakeFiles">
+                <df name="cocostudio.dir">
+                  <df name="ActionTimeline">
+                  </df>
+                  <df name="WidgetReader">
+                    <df name="ButtonReader">
+                    </df>
+                    <df name="CheckBoxReader">
+                    </df>
+                    <df name="ImageViewReader">
+                    </df>
+                    <df name="LayoutReader">
+                    </df>
+                    <df name="ListViewReader">
+                    </df>
+                    <df name="LoadingBarReader">
+                    </df>
+                    <df name="PageViewReader">
+                    </df>
+                    <df name="ScrollViewReader">
+                    </df>
+                    <df name="SliderReader">
+                    </df>
+                    <df name="TextAtlasReader">
+                    </df>
+                    <df name="TextBMFontReader">
+                    </df>
+                    <df name="TextFieldReader">
+                    </df>
+                    <df name="TextReader">
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.win32">
+              </df>
+              <df name="proj.wp8">
+                <in>pch.cpp</in>
+                <in>pch.h</in>
+              </df>
+              <df name="WidgetReader">
+                <df name="ButtonReader">
+                  <in>ButtonReader.cpp</in>
+                  <in>ButtonReader.h</in>
+                </df>
+                <df name="CheckBoxReader">
+                  <in>CheckBoxReader.cpp</in>
+                  <in>CheckBoxReader.h</in>
+                </df>
+                <df name="ImageViewReader">
+                  <in>ImageViewReader.cpp</in>
+                  <in>ImageViewReader.h</in>
+                </df>
+                <df name="LayoutReader">
+                  <in>LayoutReader.cpp</in>
+                  <in>LayoutReader.h</in>
+                </df>
+                <df name="ListViewReader">
+                  <in>ListViewReader.cpp</in>
+                  <in>ListViewReader.h</in>
+                </df>
+                <df name="LoadingBarReader">
+                  <in>LoadingBarReader.cpp</in>
+                  <in>LoadingBarReader.h</in>
+                </df>
+                <df name="PageViewReader">
+                  <in>PageViewReader.cpp</in>
+                  <in>PageViewReader.h</in>
+                </df>
+                <df name="ScrollViewReader">
+                  <in>ScrollViewReader.cpp</in>
+                  <in>ScrollViewReader.h</in>
+                </df>
+                <df name="SliderReader">
+                  <in>SliderReader.cpp</in>
+                  <in>SliderReader.h</in>
+                </df>
+                <df name="TextAtlasReader">
+                  <in>TextAtlasReader.cpp</in>
+                  <in>TextAtlasReader.h</in>
+                </df>
+                <df name="TextBMFontReader">
+                  <in>TextBMFontReader.cpp</in>
+                  <in>TextBMFontReader.h</in>
+                </df>
+                <df name="TextFieldReader">
+                  <in>TextFieldReader.cpp</in>
+                  <in>TextFieldReader.h</in>
+                </df>
+                <df name="TextReader">
+                  <in>TextReader.cpp</in>
+                  <in>TextReader.h</in>
+                </df>
+                <in>WidgetReader.cpp</in>
+                <in>WidgetReader.h</in>
+                <in>WidgetReaderProtocol.h</in>
+              </df>
+              <in>CCActionFrame.cpp</in>
+              <in>CCActionFrame.h</in>
+              <in>CCActionFrameEasing.cpp</in>
+              <in>CCActionFrameEasing.h</in>
+              <in>CCActionManagerEx.cpp</in>
+              <in>CCActionManagerEx.h</in>
+              <in>CCActionNode.cpp</in>
+              <in>CCActionNode.h</in>
+              <in>CCActionObject.cpp</in>
+              <in>CCActionObject.h</in>
+              <in>CCArmature.cpp</in>
+              <in>CCArmature.h</in>
+              <in>CCArmatureAnimation.cpp</in>
+              <in>CCArmatureAnimation.h</in>
+              <in>CCArmatureDataManager.cpp</in>
+              <in>CCArmatureDataManager.h</in>
+              <in>CCArmatureDefine.cpp</in>
+              <in>CCArmatureDefine.h</in>
+              <in>CCBatchNode.cpp</in>
+              <in>CCBatchNode.h</in>
+              <in>CCBone.cpp</in>
+              <in>CCBone.h</in>
+              <in>CCColliderDetector.cpp</in>
+              <in>CCColliderDetector.h</in>
+              <in>CCComAttribute.cpp</in>
+              <in>CCComAttribute.h</in>
+              <in>CCComAudio.cpp</in>
+              <in>CCComAudio.h</in>
+              <in>CCComBase.h</in>
+              <in>CCComController.cpp</in>
+              <in>CCComController.h</in>
+              <in>CCComRender.cpp</in>
+              <in>CCComRender.h</in>
+              <in>CCDataReaderHelper.cpp</in>
+              <in>CCDataReaderHelper.h</in>
+              <in>CCDatas.cpp</in>
+              <in>CCDatas.h</in>
+              <in>CCDecorativeDisplay.cpp</in>
+              <in>CCDecorativeDisplay.h</in>
+              <in>CCDisplayFactory.cpp</in>
+              <in>CCDisplayFactory.h</in>
+              <in>CCDisplayManager.cpp</in>
+              <in>CCDisplayManager.h</in>
+              <in>CCInputDelegate.cpp</in>
+              <in>CCInputDelegate.h</in>
+              <in>CCProcessBase.cpp</in>
+              <in>CCProcessBase.h</in>
+              <in>CCSGUIReader.cpp</in>
+              <in>CCSGUIReader.h</in>
+              <in>CCSSceneReader.cpp</in>
+              <in>CCSSceneReader.h</in>
+              <in>CCSkin.cpp</in>
+              <in>CCSkin.h</in>
+              <in>CCSpriteFrameCacheHelper.cpp</in>
+              <in>CCSpriteFrameCacheHelper.h</in>
+              <in>CCTransformHelp.cpp</in>
+              <in>CCTransformHelp.h</in>
+              <in>CCTween.cpp</in>
+              <in>CCTween.h</in>
+              <in>CCUtilMath.cpp</in>
+              <in>CCUtilMath.h</in>
+              <in>CocoLoader.cpp</in>
+              <in>CocoLoader.h</in>
+              <in>CocoStudio.h</in>
+              <in>CocosStudioExport.h</in>
+              <in>DictionaryHelper.cpp</in>
+              <in>DictionaryHelper.h</in>
+              <in>TriggerBase.cpp</in>
+              <in>TriggerBase.h</in>
+              <in>TriggerMng.cpp</in>
+              <in>TriggerMng.h</in>
+              <in>TriggerObj.cpp</in>
+              <in>TriggerObj.h</in>
+            </df>
+            <df name="spine">
+              <df name="CMakeFiles">
+                <df name="spine.dir">
+                </df>
+              </df>
+              <df name="proj.win32">
+              </df>
+              <df name="proj.wp8">
+                <in>pch.cpp</in>
+                <in>pch.h</in>
+              </df>
+              <in>Animation.cpp</in>
+              <in>Animation.h</in>
+              <in>AnimationState.cpp</in>
+              <in>AnimationState.h</in>
+              <in>AnimationStateData.cpp</in>
+              <in>AnimationStateData.h</in>
+              <in>Atlas.cpp</in>
+              <in>Atlas.h</in>
+              <in>AtlasAttachmentLoader.cpp</in>
+              <in>AtlasAttachmentLoader.h</in>
+              <in>Attachment.cpp</in>
+              <in>Attachment.h</in>
+              <in>AttachmentLoader.cpp</in>
+              <in>AttachmentLoader.h</in>
+              <in>Bone.cpp</in>
+              <in>Bone.h</in>
+              <in>BoneData.cpp</in>
+              <in>BoneData.h</in>
+              <in>BoundingBoxAttachment.cpp</in>
+              <in>BoundingBoxAttachment.h</in>
+              <in>CCSkeleton.cpp</in>
+              <in>CCSkeleton.h</in>
+              <in>CCSkeletonAnimation.cpp</in>
+              <in>CCSkeletonAnimation.h</in>
+              <in>Event.cpp</in>
+              <in>Event.h</in>
+              <in>EventData.cpp</in>
+              <in>EventData.h</in>
+              <in>Json.cpp</in>
+              <in>Json.h</in>
+              <in>RegionAttachment.cpp</in>
+              <in>RegionAttachment.h</in>
+              <in>Skeleton.cpp</in>
+              <in>Skeleton.h</in>
+              <in>SkeletonBounds.cpp</in>
+              <in>SkeletonBounds.h</in>
+              <in>SkeletonData.cpp</in>
+              <in>SkeletonData.h</in>
+              <in>SkeletonJson.cpp</in>
+              <in>SkeletonJson.h</in>
+              <in>Skin.cpp</in>
+              <in>Skin.h</in>
+              <in>Slot.cpp</in>
+              <in>Slot.h</in>
+              <in>SlotData.cpp</in>
+              <in>SlotData.h</in>
+              <in>extension.cpp</in>
+              <in>extension.h</in>
+              <in>spine-cocos2dx.cpp</in>
+              <in>spine-cocos2dx.h</in>
+              <in>spine.h</in>
+            </df>
+          </df>
+          <df name="math">
+            <in>CCAffineTransform.cpp</in>
+            <in>CCAffineTransform.h</in>
+            <in>CCGeometry.cpp</in>
+            <in>CCGeometry.h</in>
+            <in>CCMath.h</in>
+            <in>CCMathBase.h</in>
+            <in>CCVertex.cpp</in>
+            <in>CCVertex.h</in>
+            <in>Mat4.cpp</in>
+            <in>Mat4.h</in>
+            <in>Mat4.inl</in>
+            <in>MathUtil.cpp</in>
+            <in>MathUtil.h</in>
+            <in>MathUtil.inl</in>
+            <in>MathUtilNeon.inl</in>
+            <in>Quaternion.cpp</in>
+            <in>Quaternion.h</in>
+            <in>Quaternion.inl</in>
+            <in>TransformUtils.cpp</in>
+            <in>TransformUtils.h</in>
+            <in>Vec2.cpp</in>
+            <in>Vec2.h</in>
+            <in>Vec2.inl</in>
+            <in>Vec3.cpp</in>
+            <in>Vec3.h</in>
+            <in>Vec3.inl</in>
+            <in>Vec4.cpp</in>
+            <in>Vec4.h</in>
+            <in>Vec4.inl</in>
+          </df>
+          <df name="network">
+            <df name="proj.win32">
+            </df>
+            <df name="proj.wp8">
+            </df>
+            <in>HttpClient.cpp</in>
+            <in>HttpClient.h</in>
+            <in>HttpRequest.h</in>
+            <in>HttpResponse.h</in>
+            <in>SocketIO.cpp</in>
+            <in>SocketIO.h</in>
+            <in>WebSocket.cpp</in>
+            <in>WebSocket.h</in>
+          </df>
+          <df name="physics">
+            <df name="chipmunk">
+              <in>CCPhysicsBodyInfo_chipmunk.cpp</in>
+              <in>CCPhysicsBodyInfo_chipmunk.h</in>
+              <in>CCPhysicsContactInfo_chipmunk.cpp</in>
+              <in>CCPhysicsContactInfo_chipmunk.h</in>
+              <in>CCPhysicsHelper_chipmunk.h</in>
+              <in>CCPhysicsJointInfo_chipmunk.cpp</in>
+              <in>CCPhysicsJointInfo_chipmunk.h</in>
+              <in>CCPhysicsShapeInfo_chipmunk.cpp</in>
+              <in>CCPhysicsShapeInfo_chipmunk.h</in>
+              <in>CCPhysicsWorldInfo_chipmunk.cpp</in>
+              <in>CCPhysicsWorldInfo_chipmunk.h</in>
+            </df>
+            <in>CCPhysicsBody.cpp</in>
+            <in>CCPhysicsBody.h</in>
+            <in>CCPhysicsContact.cpp</in>
+            <in>CCPhysicsContact.h</in>
+            <in>CCPhysicsJoint.cpp</in>
+            <in>CCPhysicsJoint.h</in>
+            <in>CCPhysicsShape.cpp</in>
+            <in>CCPhysicsShape.h</in>
+            <in>CCPhysicsWorld.cpp</in>
+            <in>CCPhysicsWorld.h</in>
+          </df>
+          <df name="platform">
+            <df name="android">
+              <df name="ControllerManualAdapter">
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="lib">
+                        <df name="inputmanagercompat">
+                        </df>
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="java">
+                <df name="bin">
+                  <df name="classes">
+                    <df name="org">
+                      <df name="cocos2dx">
+                        <df name="lib">
+                        </df>
+                      </df>
+                    </df>
+                  </df>
+                  <df name="dexedLibs">
+                  </df>
+                  <df name="res">
+                  </df>
+                </df>
+                <df name="gen">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="lib">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+                <df name="libs">
+                </df>
+                <df name="res">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="lib">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="jni">
+                <in>DPIJni.cpp</in>
+                <in>DPIJni.h</in>
+                <in>IMEJni.cpp</in>
+                <in>IMEJni.h</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxAccelerometer.cpp</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxBitmap.cpp</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxBitmap.h</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxHelper.cpp</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxHelper.h</in>
+                <in>Java_org_cocos2dx_lib_Cocos2dxRenderer.cpp</in>
+                <in>JniHelper.cpp</in>
+                <in>JniHelper.h</in>
+                <in>TouchesJni.cpp</in>
+              </df>
+              <in>CCApplication.cpp</in>
+              <in>CCApplication.h</in>
+              <in>CCCommon.cpp</in>
+              <in>CCDevice.cpp</in>
+              <in>CCFileUtilsAndroid.cpp</in>
+              <in>CCFileUtilsAndroid.h</in>
+              <in>CCGL.h</in>
+              <in>CCGLView.cpp</in>
+              <in>CCGLView.h</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCStdC.h</in>
+              <in>javaactivity.cpp</in>
+            </df>
+            <df name="apple">
+              <in>CCFileUtilsApple.h</in>
+              <in>CCFileUtilsApple.mm</in>
+              <in>CCLock.cpp</in>
+              <in>CCLock.h</in>
+              <in>CCThread.mm</in>
+            </df>
+            <df name="desktop">
+              <in>CCGLView.cpp</in>
+              <in>CCGLView.h</in>
+            </df>
+            <df name="ios">
+              <in>CCApplication.h</in>
+              <in>CCApplication.mm</in>
+              <in>CCCommon.mm</in>
+              <in>CCDevice.mm</in>
+              <in>CCDirectorCaller.h</in>
+              <in>CCDirectorCaller.mm</in>
+              <in>CCEAGLView.h</in>
+              <in>CCEAGLView.mm</in>
+              <in>CCES2Renderer.h</in>
+              <in>CCES2Renderer.m</in>
+              <in>CCESRenderer.h</in>
+              <in>CCGL.h</in>
+              <in>CCGLView.h</in>
+              <in>CCGLView.mm</in>
+              <in>CCImage.mm</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCStdC.h</in>
+              <in>OpenGL_Internal.h</in>
+            </df>
+            <df name="linux">
+              <in>CCApplication.cpp</in>
+              <in>CCApplication.h</in>
+              <in>CCCommon.cpp</in>
+              <in>CCDevice.cpp</in>
+              <in>CCFileUtilsLinux.cpp</in>
+              <in>CCFileUtilsLinux.h</in>
+              <in>CCGL.h</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCStdC.cpp</in>
+              <in>CCStdC.h</in>
+            </df>
+            <df name="mac">
+              <in>CCApplication.h</in>
+              <in>CCApplication.mm</in>
+              <in>CCCommon.mm</in>
+              <in>CCDevice.mm</in>
+              <in>CCGL.h</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCStdC.h</in>
+            </df>
+            <df name="win32">
+              <df name="compat">
+                <in>stdint.h</in>
+              </df>
+              <in>CCApplication.cpp</in>
+              <in>CCApplication.h</in>
+              <in>CCCommon.cpp</in>
+              <in>CCDevice.cpp</in>
+              <in>CCFileUtilsWin32.cpp</in>
+              <in>CCFileUtilsWin32.h</in>
+              <in>CCGL.h</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCStdC.cpp</in>
+              <in>CCStdC.h</in>
+            </df>
+            <df name="winrt">
+              <df name="shaders">
+                <in>precompiledshaders.h</in>
+              </df>
+              <in>CCApplication.cpp</in>
+              <in>CCApplication.h</in>
+              <in>CCCommon.cpp</in>
+              <in>CCDevice.cpp</in>
+              <in>CCFileUtilsWinRT.cpp</in>
+              <in>CCFileUtilsWinRT.h</in>
+              <in>CCFreeTypeFont.cpp</in>
+              <in>CCFreeTypeFont.h</in>
+              <in>CCGL.h</in>
+              <in>CCGLView.cpp</in>
+              <in>CCGLView.h</in>
+              <in>CCGL_Angle.h</in>
+              <in>CCPThreadWinRT.cpp</in>
+              <in>CCPThreadWinRT.h</in>
+              <in>CCPlatformDefine.h</in>
+              <in>CCPrecompiledShaders.cpp</in>
+              <in>CCPrecompiledShaders.h</in>
+              <in>CCStdC.cpp</in>
+              <in>CCStdC.h</in>
+              <in>CCWinRTUtils.cpp</in>
+              <in>CCWinRTUtils.h</in>
+              <in>DirectXBase.cpp</in>
+              <in>DirectXBase.h</in>
+              <in>DirectXHelper.h</in>
+              <in>InputEvent.cpp</in>
+              <in>InputEvent.h</in>
+              <in>InputEventTypes.h</in>
+              <in>inet_ntop_winrt.cpp</in>
+              <in>inet_ntop_winrt.h</in>
+              <in>pch.cpp</in>
+              <in>pch.h</in>
+              <in>sha1.cpp</in>
+              <in>sha1.h</in>
+            </df>
+            <df name="wp8">
+              <df name="shaders">
+                <in>precompiledshaders.h</in>
+              </df>
+              <in>CCGLView.cpp</in>
+              <in>CCGLView.h</in>
+              <in>Direct3DBase.cpp</in>
+              <in>Direct3DBase.h</in>
+              <in>DirectXBase.cpp</in>
+              <in>DirectXBase.h</in>
+              <in>pch.cpp</in>
+              <in>pch.h</in>
+            </df>
+            <df name="wp8-xaml">
+              <df name="cpp">
+                <in>Cocos2dRenderer.cpp</in>
+                <in>Cocos2dRenderer.h</in>
+                <in>Direct3DContentProvider.cpp</in>
+                <in>Direct3DContentProvider.h</in>
+                <in>Direct3DInterop.cpp</in>
+                <in>Direct3DInterop.h</in>
+                <in>DirectXBase.cpp</in>
+                <in>DirectXBase.h</in>
+                <in>DirectXHelper.h</in>
+                <in>EditBoxEvent.cpp</in>
+                <in>EditBoxEvent.h</in>
+              </df>
+              <df name="xaml">
+              </df>
+            </df>
+            <in>CCApplicationProtocol.h</in>
+            <in>CCCommon.h</in>
+            <in>CCDevice.h</in>
+            <in>CCFileUtils.cpp</in>
+            <in>CCFileUtils.h</in>
+            <in>CCGLViewProtocol.cpp</in>
+            <in>CCGLViewProtocol.h</in>
+            <in>CCImage.cpp</in>
+            <in>CCImage.h</in>
+            <in>CCSAXParser.cpp</in>
+            <in>CCSAXParser.h</in>
+            <in>CCThread.cpp</in>
+            <in>CCThread.h</in>
+          </df>
+          <df name="renderer">
+            <in>CCBatchCommand.cpp</in>
+            <in>CCBatchCommand.h</in>
+            <in>CCCustomCommand.cpp</in>
+            <in>CCCustomCommand.h</in>
+            <in>CCGLProgram.cpp</in>
+            <in>CCGLProgram.h</in>
+            <in>CCGLProgramCache.cpp</in>
+            <in>CCGLProgramCache.h</in>
+            <in>CCGLProgramState.cpp</in>
+            <in>CCGLProgramState.h</in>
+            <in>CCGLProgramStateCache.cpp</in>
+            <in>CCGLProgramStateCache.h</in>
+            <in>CCGroupCommand.cpp</in>
+            <in>CCGroupCommand.h</in>
+            <in>CCMeshCommand.cpp</in>
+            <in>CCMeshCommand.h</in>
+            <in>CCQuadCommand.cpp</in>
+            <in>CCQuadCommand.h</in>
+            <in>CCRenderCommand.cpp</in>
+            <in>CCRenderCommand.h</in>
+            <in>CCRenderCommandPool.h</in>
+            <in>CCRenderer.cpp</in>
+            <in>CCRenderer.h</in>
+            <in>CCTexture2D.cpp</in>
+            <in>CCTexture2D.h</in>
+            <in>CCTextureAtlas.cpp</in>
+            <in>CCTextureAtlas.h</in>
+            <in>CCTextureCache.cpp</in>
+            <in>CCTextureCache.h</in>
+            <in>ccGLStateCache.cpp</in>
+            <in>ccGLStateCache.h</in>
+            <in>ccShader_3D_Color.frag</in>
+            <in>ccShader_3D_ColorTex.frag</in>
+            <in>ccShader_3D_PositionTex.vert</in>
+            <in>ccShader_Label.vert</in>
+            <in>ccShader_Label_df.frag</in>
+            <in>ccShader_Label_df_glow.frag</in>
+            <in>ccShader_Label_normal.frag</in>
+            <in>ccShader_Label_outline.frag</in>
+            <in>ccShader_PositionColor.frag</in>
+            <in>ccShader_PositionColor.vert</in>
+            <in>ccShader_PositionColorLengthTexture.frag</in>
+            <in>ccShader_PositionColorLengthTexture.vert</in>
+            <in>ccShader_PositionTexture.frag</in>
+            <in>ccShader_PositionTexture.vert</in>
+            <in>ccShader_PositionTextureA8Color.frag</in>
+            <in>ccShader_PositionTextureA8Color.vert</in>
+            <in>ccShader_PositionTextureColor.frag</in>
+            <in>ccShader_PositionTextureColor.vert</in>
+            <in>ccShader_PositionTextureColorAlphaTest.frag</in>
+            <in>ccShader_PositionTextureColor_noMVP.frag</in>
+            <in>ccShader_PositionTextureColor_noMVP.vert</in>
+            <in>ccShader_PositionTexture_uColor.frag</in>
+            <in>ccShader_PositionTexture_uColor.vert</in>
+            <in>ccShader_Position_uColor.frag</in>
+            <in>ccShader_Position_uColor.vert</in>
+            <in>ccShaders.cpp</in>
+            <in>ccShaders.h</in>
+          </df>
+          <df name="storage">
+            <df name="local-storage">
+              <df name="proj.wp8">
+              </df>
+              <in>LocalStorage.cpp</in>
+              <in>LocalStorage.h</in>
+              <in>LocalStorageAndroid.cpp</in>
+            </df>
+          </df>
+          <df name="ui">
+            <df name="proj.win32">
+            </df>
+            <df name="proj.wp8">
+            </df>
+            <in>CCProtectedNode.cpp</in>
+            <in>CCProtectedNode.h</in>
+            <in>CocosGUI.cpp</in>
+            <in>CocosGUI.h</in>
+            <in>GUIDefine.h</in>
+            <in>GUIExport.h</in>
+            <in>UIButton.cpp</in>
+            <in>UIButton.h</in>
+            <in>UICheckBox.cpp</in>
+            <in>UICheckBox.h</in>
+            <in>UIDeprecated.cpp</in>
+            <in>UIDeprecated.h</in>
+            <in>UIHBox.cpp</in>
+            <in>UIHBox.h</in>
+            <in>UIHelper.cpp</in>
+            <in>UIHelper.h</in>
+            <in>UIImageView.cpp</in>
+            <in>UIImageView.h</in>
+            <in>UILayout.cpp</in>
+            <in>UILayout.h</in>
+            <in>UILayoutManager.cpp</in>
+            <in>UILayoutManager.h</in>
+            <in>UILayoutParameter.cpp</in>
+            <in>UILayoutParameter.h</in>
+            <in>UIListView.cpp</in>
+            <in>UIListView.h</in>
+            <in>UILoadingBar.cpp</in>
+            <in>UILoadingBar.h</in>
+            <in>UIPageView.cpp</in>
+            <in>UIPageView.h</in>
+            <in>UIRelativeBox.cpp</in>
+            <in>UIRelativeBox.h</in>
+            <in>UIRichText.cpp</in>
+            <in>UIRichText.h</in>
+            <in>UIScale9Sprite.cpp</in>
+            <in>UIScale9Sprite.h</in>
+            <in>UIScrollView.cpp</in>
+            <in>UIScrollView.h</in>
+            <in>UISlider.cpp</in>
+            <in>UISlider.h</in>
+            <in>UIText.cpp</in>
+            <in>UIText.h</in>
+            <in>UITextAtlas.cpp</in>
+            <in>UITextAtlas.h</in>
+            <in>UITextBMFont.cpp</in>
+            <in>UITextBMFont.h</in>
+            <in>UITextField.cpp</in>
+            <in>UITextField.h</in>
+            <in>UIVBox.cpp</in>
+            <in>UIVBox.h</in>
+            <in>UIVideoPlayer.h</in>
+            <in>UIVideoPlayerAndroid.cpp</in>
+            <in>UIVideoPlayerIOS.mm</in>
+            <in>UIWidget.cpp</in>
+            <in>UIWidget.h</in>
+          </df>
+          <in>cocos2d.cpp</in>
+          <in>cocos2d.h</in>
+        </df>
+        <df name="docs">
+          <in>Groups.h</in>
+          <in>MainPage.h</in>
+        </df>
+        <df name="extensions">
+          <df name="assets-manager">
+            <in>AssetsManager.cpp</in>
+            <in>AssetsManager.h</in>
+          </df>
+          <df name="CMakeFiles">
+            <df name="extensions.dir">
+              <df name="assets-manager">
+              </df>
+              <df name="GUI">
+                <df name="CCControlExtension">
+                </df>
+                <df name="CCEditBox">
+                </df>
+                <df name="CCScrollView">
+                </df>
+              </df>
+              <df name="physics-nodes">
+              </df>
+            </df>
+          </df>
+          <df name="GUI">
+            <df name="CCControlExtension">
+              <in>CCControl.cpp</in>
+              <in>CCControl.h</in>
+              <in>CCControlButton.cpp</in>
+              <in>CCControlButton.h</in>
+              <in>CCControlColourPicker.cpp</in>
+              <in>CCControlColourPicker.h</in>
+              <in>CCControlExtensions.h</in>
+              <in>CCControlHuePicker.cpp</in>
+              <in>CCControlHuePicker.h</in>
+              <in>CCControlPotentiometer.cpp</in>
+              <in>CCControlPotentiometer.h</in>
+              <in>CCControlSaturationBrightnessPicker.cpp</in>
+              <in>CCControlSaturationBrightnessPicker.h</in>
+              <in>CCControlSlider.cpp</in>
+              <in>CCControlSlider.h</in>
+              <in>CCControlStepper.cpp</in>
+              <in>CCControlStepper.h</in>
+              <in>CCControlSwitch.cpp</in>
+              <in>CCControlSwitch.h</in>
+              <in>CCControlUtils.cpp</in>
+              <in>CCControlUtils.h</in>
+              <in>CCInvocation.cpp</in>
+              <in>CCInvocation.h</in>
+              <in>CCScale9Sprite.cpp</in>
+              <in>CCScale9Sprite.h</in>
+            </df>
+            <df name="CCEditBox">
+              <in>CCEditBox.cpp</in>
+              <in>CCEditBox.h</in>
+              <in>CCEditBoxImpl.h</in>
+              <in>CCEditBoxImplAndroid.cpp</in>
+              <in>CCEditBoxImplAndroid.h</in>
+              <in>CCEditBoxImplIOS.h</in>
+              <in>CCEditBoxImplIOS.mm</in>
+              <in>CCEditBoxImplMac.h</in>
+              <in>CCEditBoxImplMac.mm</in>
+              <in>CCEditBoxImplNone.cpp</in>
+              <in>CCEditBoxImplWin.cpp</in>
+              <in>CCEditBoxImplWin.h</in>
+              <in>CCEditBoxImplWp8.cpp</in>
+              <in>CCEditBoxImplWp8.h</in>
+            </df>
+            <df name="CCScrollView">
+              <in>CCScrollView.cpp</in>
+              <in>CCScrollView.h</in>
+              <in>CCTableView.cpp</in>
+              <in>CCTableView.h</in>
+              <in>CCTableViewCell.cpp</in>
+              <in>CCTableViewCell.h</in>
+            </df>
+          </df>
+          <df name="physics-nodes">
+            <in>CCPhysicsDebugNode.cpp</in>
+            <in>CCPhysicsDebugNode.h</in>
+            <in>CCPhysicsSprite.cpp</in>
+            <in>CCPhysicsSprite.h</in>
+          </df>
+          <df name="proj.win32">
+            <in>Win32InputBox.cpp</in>
+            <in>Win32InputBox.h</in>
+          </df>
+          <df name="proj.wp8">
+            <in>pch.cpp</in>
+            <in>pch.h</in>
+          </df>
+          <in>ExtensionExport.h</in>
+          <in>ExtensionMacros.h</in>
+          <in>cocos-ext.h</in>
+        </df>
+        <df name="external">
+          <df name="Box2D">
+            <df name="Collision">
+              <df name="Shapes">
+                <in>b2ChainShape.cpp</in>
+                <in>b2ChainShape.h</in>
+                <in>b2CircleShape.cpp</in>
+                <in>b2CircleShape.h</in>
+                <in>b2EdgeShape.cpp</in>
+                <in>b2EdgeShape.h</in>
+                <in>b2PolygonShape.cpp</in>
+                <in>b2PolygonShape.h</in>
+                <in>b2Shape.h</in>
+              </df>
+              <in>b2BroadPhase.cpp</in>
+              <in>b2BroadPhase.h</in>
+              <in>b2CollideCircle.cpp</in>
+              <in>b2CollideEdge.cpp</in>
+              <in>b2CollidePolygon.cpp</in>
+              <in>b2Collision.cpp</in>
+              <in>b2Collision.h</in>
+              <in>b2Distance.cpp</in>
+              <in>b2Distance.h</in>
+              <in>b2DynamicTree.cpp</in>
+              <in>b2DynamicTree.h</in>
+              <in>b2TimeOfImpact.cpp</in>
+              <in>b2TimeOfImpact.h</in>
+            </df>
+            <df name="Common">
+              <in>b2BlockAllocator.cpp</in>
+              <in>b2BlockAllocator.h</in>
+              <in>b2Draw.cpp</in>
+              <in>b2Draw.h</in>
+              <in>b2GrowableStack.h</in>
+              <in>b2Math.cpp</in>
+              <in>b2Math.h</in>
+              <in>b2Settings.cpp</in>
+              <in>b2Settings.h</in>
+              <in>b2StackAllocator.cpp</in>
+              <in>b2StackAllocator.h</in>
+              <in>b2Timer.cpp</in>
+              <in>b2Timer.h</in>
+            </df>
+            <df name="Dynamics">
+              <df name="Contacts">
+                <in>b2ChainAndCircleContact.cpp</in>
+                <in>b2ChainAndCircleContact.h</in>
+                <in>b2ChainAndPolygonContact.cpp</in>
+                <in>b2ChainAndPolygonContact.h</in>
+                <in>b2CircleContact.cpp</in>
+                <in>b2CircleContact.h</in>
+                <in>b2Contact.cpp</in>
+                <in>b2Contact.h</in>
+                <in>b2ContactSolver.cpp</in>
+                <in>b2ContactSolver.h</in>
+                <in>b2EdgeAndCircleContact.cpp</in>
+                <in>b2EdgeAndCircleContact.h</in>
+                <in>b2EdgeAndPolygonContact.cpp</in>
+                <in>b2EdgeAndPolygonContact.h</in>
+                <in>b2PolygonAndCircleContact.cpp</in>
+                <in>b2PolygonAndCircleContact.h</in>
+                <in>b2PolygonContact.cpp</in>
+                <in>b2PolygonContact.h</in>
+              </df>
+              <df name="Joints">
+                <in>b2DistanceJoint.cpp</in>
+                <in>b2DistanceJoint.h</in>
+                <in>b2FrictionJoint.cpp</in>
+                <in>b2FrictionJoint.h</in>
+                <in>b2GearJoint.cpp</in>
+                <in>b2GearJoint.h</in>
+                <in>b2Joint.cpp</in>
+                <in>b2Joint.h</in>
+                <in>b2MotorJoint.cpp</in>
+                <in>b2MotorJoint.h</in>
+                <in>b2MouseJoint.cpp</in>
+                <in>b2MouseJoint.h</in>
+                <in>b2PrismaticJoint.cpp</in>
+                <in>b2PrismaticJoint.h</in>
+                <in>b2PulleyJoint.cpp</in>
+                <in>b2PulleyJoint.h</in>
+                <in>b2RevoluteJoint.cpp</in>
+                <in>b2RevoluteJoint.h</in>
+                <in>b2RopeJoint.cpp</in>
+                <in>b2RopeJoint.h</in>
+                <in>b2WeldJoint.cpp</in>
+                <in>b2WeldJoint.h</in>
+                <in>b2WheelJoint.cpp</in>
+                <in>b2WheelJoint.h</in>
+              </df>
+              <in>b2Body.cpp</in>
+              <in>b2Body.h</in>
+              <in>b2ContactManager.cpp</in>
+              <in>b2ContactManager.h</in>
+              <in>b2Fixture.cpp</in>
+              <in>b2Fixture.h</in>
+              <in>b2Island.cpp</in>
+              <in>b2Island.h</in>
+              <in>b2TimeStep.h</in>
+              <in>b2World.cpp</in>
+              <in>b2World.h</in>
+              <in>b2WorldCallbacks.cpp</in>
+              <in>b2WorldCallbacks.h</in>
+            </df>
+            <df name="proj.win32">
+            </df>
+            <df name="proj.wp8">
+            </df>
+            <df name="Rope">
+              <in>b2Rope.cpp</in>
+              <in>b2Rope.h</in>
+            </df>
+            <in>Box2D.h</in>
+          </df>
+          <df name="chipmunk">
+            <df name="include">
+              <df name="chipmunk">
+                <df name="constraints">
+                  <in>cpConstraint.h</in>
+                  <in>cpDampedRotarySpring.h</in>
+                  <in>cpDampedSpring.h</in>
+                  <in>cpGearJoint.h</in>
+                  <in>cpGrooveJoint.h</in>
+                  <in>cpPinJoint.h</in>
+                  <in>cpPivotJoint.h</in>
+                  <in>cpRatchetJoint.h</in>
+                  <in>cpRotaryLimitJoint.h</in>
+                  <in>cpSimpleMotor.h</in>
+                  <in>cpSlideJoint.h</in>
+                  <in>util.h</in>
+                </df>
+                <in>chipmunk.h</in>
+                <in>chipmunk_ffi.h</in>
+                <in>chipmunk_private.h</in>
+                <in>chipmunk_types.h</in>
+                <in>chipmunk_unsafe.h</in>
+                <in>cpArbiter.h</in>
+                <in>cpBB.h</in>
+                <in>cpBody.h</in>
+                <in>cpPolyShape.h</in>
+                <in>cpShape.h</in>
+                <in>cpSpace.h</in>
+                <in>cpSpatialIndex.h</in>
+                <in>cpVect.h</in>
+              </df>
+            </df>
+            <df name="proj.win32">
+            </df>
+            <df name="proj.winrt">
+            </df>
+            <df name="proj.wp8">
+            </df>
+            <df name="src">
+              <df name="CMakeFiles">
+                <df name="chipmunk_static.dir">
+                  <df name="constraints">
+                  </df>
+                </df>
+              </df>
+              <df name="constraints">
+                <in>cpConstraint.c</in>
+                <in>cpDampedRotarySpring.c</in>
+                <in>cpDampedSpring.c</in>
+                <in>cpGearJoint.c</in>
+                <in>cpGrooveJoint.c</in>
+                <in>cpPinJoint.c</in>
+                <in>cpPivotJoint.c</in>
+                <in>cpRatchetJoint.c</in>
+                <in>cpRotaryLimitJoint.c</in>
+                <in>cpSimpleMotor.c</in>
+                <in>cpSlideJoint.c</in>
+              </df>
+              <in>chipmunk.c</in>
+              <in>cpArbiter.c</in>
+              <in>cpArray.c</in>
+              <in>cpBB.c</in>
+              <in>cpBBTree.c</in>
+              <in>cpBody.c</in>
+              <in>cpCollision.c</in>
+              <in>cpHashSet.c</in>
+              <in>cpPolyShape.c</in>
+              <in>cpShape.c</in>
+              <in>cpSpace.c</in>
+              <in>cpSpaceComponent.c</in>
+              <in>cpSpaceHash.c</in>
+              <in>cpSpaceQuery.c</in>
+              <in>cpSpaceStep.c</in>
+              <in>cpSpatialIndex.c</in>
+              <in>cpSweep1D.c</in>
+              <in>cpVect.c</in>
+              <in>prime.h</in>
+            </df>
+          </df>
+          <df name="ConvertUTF">
+            <in>ConvertUTF.c</in>
+            <in>ConvertUTF.h</in>
+            <in>ConvertUTFWrapper.cpp</in>
+          </df>
+          <df name="curl">
+            <df name="include">
+              <df name="android">
+                <df name="curl">
+                  <in>curl.h</in>
+                  <in>curlbuild.h</in>
+                  <in>curlrules.h</in>
+                  <in>curlver.h</in>
+                  <in>easy.h</in>
+                  <in>mprintf.h</in>
+                  <in>multi.h</in>
+                  <in>stdcheaders.h</in>
+                  <in>typecheck-gcc.h</in>
+                  <in>types.h</in>
+                </df>
+              </df>
+              <df name="ios">
+                <df name="curl">
+                  <in>curl.h</in>
+                  <in>curlbuild.h</in>
+                  <in>curlrules.h</in>
+                  <in>curlver.h</in>
+                  <in>easy.h</in>
+                  <in>mprintf.h</in>
+                  <in>multi.h</in>
+                  <in>stdcheaders.h</in>
+                  <in>typecheck-gcc.h</in>
+                </df>
+              </df>
+              <df name="win32">
+                <df name="curl">
+                  <in>curl.h</in>
+                  <in>curlbuild.h</in>
+                  <in>curlrules.h</in>
+                  <in>curlver.h</in>
+                  <in>easy.h</in>
+                  <in>mprintf.h</in>
+                  <in>multi.h</in>
+                  <in>stdcheaders.h</in>
+                  <in>typecheck-gcc.h</in>
+                </df>
+              </df>
+              <df name="wp8">
+                <df name="curl">
+                  <in>curl.h</in>
+                  <in>curlbuild.h</in>
+                  <in>curlrules.h</in>
+                  <in>curlver.h</in>
+                  <in>easy.h</in>
+                  <in>mprintf.h</in>
+                  <in>multi.h</in>
+                  <in>stdcheaders.h</in>
+                  <in>typecheck-gcc.h</in>
+                </df>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="wp8">
+                <df name="arm">
+                </df>
+                <df name="win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="edtaa3func">
+            <in>edtaa3func.cpp</in>
+            <in>edtaa3func.h</in>
+          </df>
+          <df name="freetype2">
+            <df name="include">
+              <df name="android">
+                <df name="freetype2">
+                  <df name="freetype">
+                    <df name="config">
+                      <in>ftconfig.h</in>
+                      <in>ftheader.h</in>
+                      <in>ftmodule.h</in>
+                      <in>ftoption.h</in>
+                      <in>ftstdlib.h</in>
+                    </df>
+                    <in>freetype.h</in>
+                    <in>ftadvanc.h</in>
+                    <in>ftautoh.h</in>
+                    <in>ftbbox.h</in>
+                    <in>ftbdf.h</in>
+                    <in>ftbitmap.h</in>
+                    <in>ftbzip2.h</in>
+                    <in>ftcache.h</in>
+                    <in>ftcffdrv.h</in>
+                    <in>ftchapters.h</in>
+                    <in>ftcid.h</in>
+                    <in>fterrdef.h</in>
+                    <in>fterrors.h</in>
+                    <in>ftgasp.h</in>
+                    <in>ftglyph.h</in>
+                    <in>ftgxval.h</in>
+                    <in>ftgzip.h</in>
+                    <in>ftimage.h</in>
+                    <in>ftincrem.h</in>
+                    <in>ftlcdfil.h</in>
+                    <in>ftlist.h</in>
+                    <in>ftlzw.h</in>
+                    <in>ftmac.h</in>
+                    <in>ftmm.h</in>
+                    <in>ftmodapi.h</in>
+                    <in>ftmoderr.h</in>
+                    <in>ftotval.h</in>
+                    <in>ftoutln.h</in>
+                    <in>ftpfr.h</in>
+                    <in>ftrender.h</in>
+                    <in>ftsizes.h</in>
+                    <in>ftsnames.h</in>
+                    <in>ftstroke.h</in>
+                    <in>ftsynth.h</in>
+                    <in>ftsystem.h</in>
+                    <in>fttrigon.h</in>
+                    <in>ftttdrv.h</in>
+                    <in>fttypes.h</in>
+                    <in>ftwinfnt.h</in>
+                    <in>ftxf86.h</in>
+                    <in>t1tables.h</in>
+                    <in>ttnameid.h</in>
+                    <in>tttables.h</in>
+                    <in>tttags.h</in>
+                    <in>ttunpat.h</in>
+                  </df>
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="ios">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svprop.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftautoh.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftcffdrv.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>ftttdrv.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="linux">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="mac">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svprop.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftautoh.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftcffdrv.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>ftttdrv.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="win32">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svprop.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftautoh.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftcffdrv.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>ftttdrv.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="winrt">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svprop.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftautoh.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftcffdrv.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>ftttdrv.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <df name="proj.winrt">
+                </df>
+                <in>ft2build.h</in>
+              </df>
+              <df name="wp8">
+                <df name="freetype">
+                  <df name="config">
+                    <in>ftconfig.h</in>
+                    <in>ftheader.h</in>
+                    <in>ftmodule.h</in>
+                    <in>ftoption.h</in>
+                    <in>ftstdlib.h</in>
+                  </df>
+                  <df name="internal">
+                    <df name="services">
+                      <in>svbdf.h</in>
+                      <in>svcid.h</in>
+                      <in>svgldict.h</in>
+                      <in>svgxval.h</in>
+                      <in>svkern.h</in>
+                      <in>svmm.h</in>
+                      <in>svotval.h</in>
+                      <in>svpfr.h</in>
+                      <in>svpostnm.h</in>
+                      <in>svprop.h</in>
+                      <in>svpscmap.h</in>
+                      <in>svpsinfo.h</in>
+                      <in>svsfnt.h</in>
+                      <in>svttcmap.h</in>
+                      <in>svtteng.h</in>
+                      <in>svttglyf.h</in>
+                      <in>svwinfnt.h</in>
+                      <in>svxf86nm.h</in>
+                    </df>
+                    <in>autohint.h</in>
+                    <in>ftcalc.h</in>
+                    <in>ftdebug.h</in>
+                    <in>ftdriver.h</in>
+                    <in>ftgloadr.h</in>
+                    <in>ftmemory.h</in>
+                    <in>ftobjs.h</in>
+                    <in>ftpic.h</in>
+                    <in>ftrfork.h</in>
+                    <in>ftserv.h</in>
+                    <in>ftstream.h</in>
+                    <in>fttrace.h</in>
+                    <in>ftvalid.h</in>
+                    <in>internal.h</in>
+                    <in>psaux.h</in>
+                    <in>pshints.h</in>
+                    <in>sfnt.h</in>
+                    <in>t1types.h</in>
+                    <in>tttypes.h</in>
+                  </df>
+                  <in>freetype.h</in>
+                  <in>ftadvanc.h</in>
+                  <in>ftautoh.h</in>
+                  <in>ftbbox.h</in>
+                  <in>ftbdf.h</in>
+                  <in>ftbitmap.h</in>
+                  <in>ftbzip2.h</in>
+                  <in>ftcache.h</in>
+                  <in>ftcffdrv.h</in>
+                  <in>ftchapters.h</in>
+                  <in>ftcid.h</in>
+                  <in>fterrdef.h</in>
+                  <in>fterrors.h</in>
+                  <in>ftgasp.h</in>
+                  <in>ftglyph.h</in>
+                  <in>ftgxval.h</in>
+                  <in>ftgzip.h</in>
+                  <in>ftimage.h</in>
+                  <in>ftincrem.h</in>
+                  <in>ftlcdfil.h</in>
+                  <in>ftlist.h</in>
+                  <in>ftlzw.h</in>
+                  <in>ftmac.h</in>
+                  <in>ftmm.h</in>
+                  <in>ftmodapi.h</in>
+                  <in>ftmoderr.h</in>
+                  <in>ftotval.h</in>
+                  <in>ftoutln.h</in>
+                  <in>ftpfr.h</in>
+                  <in>ftrender.h</in>
+                  <in>ftsizes.h</in>
+                  <in>ftsnames.h</in>
+                  <in>ftstroke.h</in>
+                  <in>ftsynth.h</in>
+                  <in>ftsystem.h</in>
+                  <in>fttrigon.h</in>
+                  <in>ftttdrv.h</in>
+                  <in>fttypes.h</in>
+                  <in>ftwinfnt.h</in>
+                  <in>ftxf86.h</in>
+                  <in>t1tables.h</in>
+                  <in>ttnameid.h</in>
+                  <in>tttables.h</in>
+                  <in>tttags.h</in>
+                  <in>ttunpat.h</in>
+                </df>
+                <df name="proj.wp8">
+                </df>
+                <in>ft2build.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="linux">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="winrt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+              <df name="wp8">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="glfw3">
+            <df name="include">
+              <df name="mac">
+                <in>glfw3.h</in>
+                <in>glfw3native.h</in>
+              </df>
+              <df name="win32">
+                <in>glfw3.h</in>
+                <in>glfw3native.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+            </df>
+          </df>
+          <df name="jpeg">
+            <df name="include">
+              <df name="android">
+                <in>jconfig.h</in>
+                <in>jerror.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="ios">
+                <in>jconfig.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="linux">
+                <in>jconfig.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="mac">
+                <in>jconfig.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="win32">
+                <in>jconfig.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="winrt">
+                <in>jconfig.h</in>
+                <in>jconfig_linux.h</in>
+                <in>jconfig_win.h</in>
+                <in>jerror.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+              <df name="wp8">
+                <in>jconfig.h</in>
+                <in>jconfig_linux.h</in>
+                <in>jconfig_win.h</in>
+                <in>jerror.h</in>
+                <in>jmorecfg.h</in>
+                <in>jpeglib.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="linux">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="winrt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+              <df name="wp8">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="json">
+            <df name="internal">
+              <in>pow10.h</in>
+              <in>stack.h</in>
+              <in>strfunc.h</in>
+            </df>
+            <in>document.h</in>
+            <in>filestream.h</in>
+            <in>prettywriter.h</in>
+            <in>rapidjson.h</in>
+            <in>reader.h</in>
+            <in>stringbuffer.h</in>
+            <in>writer.h</in>
+          </df>
+          <df name="linux-specific">
+            <df name="fmod">
+              <df name="include">
+                <df name="32-bit">
+                  <in>fmod.h</in>
+                  <in>fmod.hpp</in>
+                  <in>fmod_codec.h</in>
+                  <in>fmod_dsp.h</in>
+                  <in>fmod_errors.h</in>
+                  <in>fmod_memoryinfo.h</in>
+                  <in>fmod_output.h</in>
+                  <in>fmodlinux.h</in>
+                </df>
+                <df name="64-bit">
+                  <in>fmod.h</in>
+                  <in>fmod.hpp</in>
+                  <in>fmod_codec.h</in>
+                  <in>fmod_dsp.h</in>
+                  <in>fmod_errors.h</in>
+                  <in>fmod_memoryinfo.h</in>
+                  <in>fmod_output.h</in>
+                  <in>fmodlinux.h</in>
+                </df>
+              </df>
+              <df name="prebuilt">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="nslog">
+            <df name="ios">
+              <in>CCNSLog.mm</in>
+              <in>LoggerClient.h</in>
+              <in>LoggerClient.m</in>
+              <in>LoggerCommon.h</in>
+              <in>NSLogger.h</in>
+            </df>
+            <in>CCNSLog.h</in>
+          </df>
+          <df name="png">
+            <df name="include">
+              <df name="android">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+                <in>pnglibconf.h</in>
+              </df>
+              <df name="ios">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+                <in>pnglibconf.h</in>
+              </df>
+              <df name="mac">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+                <in>pnglibconf.h</in>
+              </df>
+              <df name="win32">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+                <in>pnglibconf.h</in>
+              </df>
+              <df name="winrt">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+              </df>
+              <df name="wp8">
+                <in>png.h</in>
+                <in>pngconf.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="winrt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+              <df name="wp8">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="sqlite3">
+            <df name="include">
+              <in>sqlite3.h</in>
+              <in>sqlite3ext.h</in>
+            </df>
+            <df name="libraries">
+              <df name="win32">
+              </df>
+            </df>
+          </df>
+          <df name="tiff">
+            <df name="include">
+              <df name="android">
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="ios">
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="linux">
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="mac">
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="win32">
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="winrt">
+                <in>tif_config.h</in>
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+              <df name="wp8">
+                <in>tif_config.h</in>
+                <in>tiff.h</in>
+                <in>tiffconf.h</in>
+                <in>tiffio.h</in>
+                <in>tiffvers.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="linux">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="winrt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+              <df name="wp8">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="tinyxml2">
+            <df name="CMakeFiles">
+              <df name="tinyxml2.dir">
+              </df>
+            </df>
+            <in>tinyxml2.cpp</in>
+            <in>tinyxml2.h</in>
+          </df>
+          <df name="unzip">
+            <df name="CMakeFiles">
+              <df name="unzip.dir">
+              </df>
+            </df>
+            <in>ioapi.cpp</in>
+            <in>ioapi.h</in>
+            <in>unzip.cpp</in>
+            <in>unzip.h</in>
+          </df>
+          <df name="webp">
+            <df name="include">
+              <df name="android">
+                <in>decode.h</in>
+                <in>encode.h</in>
+                <in>types.h</in>
+              </df>
+              <df name="ios">
+                <in>decode.h</in>
+                <in>encode.h</in>
+                <in>types.h</in>
+              </df>
+              <df name="linux">
+                <in>decode.h</in>
+                <in>encode.h</in>
+                <in>types.h</in>
+              </df>
+              <df name="mac">
+                <in>decode.h</in>
+                <in>encode.h</in>
+                <in>types.h</in>
+              </df>
+              <df name="win32">
+                <in>decode.h</in>
+                <in>encode.h</in>
+                <in>types.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="linux">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+            </df>
+          </df>
+          <df name="websockets">
+            <df name="include">
+              <df name="android">
+                <in>libwebsockets.h</in>
+              </df>
+              <df name="ios">
+                <in>libwebsockets.h</in>
+              </df>
+              <df name="linux">
+                <in>libwebsockets.h</in>
+              </df>
+              <df name="mac">
+                <in>libwebsockets.h</in>
+              </df>
+              <df name="win32">
+                <df name="win32helpers">
+                  <in>gettimeofday.h</in>
+                  <in>websock-w32.h</in>
+                </df>
+                <in>libwebsockets.h</in>
+              </df>
+              <df name="wp8">
+                <df name="win32helpers">
+                  <df name="sys">
+                    <in>time.h</in>
+                  </df>
+                  <in>getopt.c</in>
+                  <in>getopt.h</in>
+                  <in>getopt_long.c</in>
+                  <in>gettimeofday.c</in>
+                  <in>gettimeofday.h</in>
+                  <in>netdb.h</in>
+                  <in>strings.h</in>
+                  <in>unistd.h</in>
+                  <in>websock-w32.c</in>
+                  <in>websock-w32.h</in>
+                </df>
+                <in>libwebsockets.h</in>
+                <in>private-libwebsockets.h</in>
+              </df>
+            </df>
+            <df name="prebuilt">
+              <df name="android">
+                <df name="armeabi">
+                </df>
+                <df name="armeabi-v7a">
+                </df>
+                <df name="x86">
+                </df>
+              </df>
+              <df name="ios">
+              </df>
+              <df name="linux">
+                <df name="32-bit">
+                </df>
+                <df name="64-bit">
+                </df>
+              </df>
+              <df name="mac">
+              </df>
+              <df name="win32">
+              </df>
+              <df name="wp8">
+                <df name="arm">
+                </df>
+                <df name="win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="win32-specific">
+            <df name="gles">
+              <df name="include">
+                <df name="OGLES">
+                  <df name="GL">
+                    <in>glew.h</in>
+                    <in>glxew.h</in>
+                    <in>wglew.h</in>
+                  </df>
+                </df>
+              </df>
+              <df name="prebuilt">
+              </df>
+            </df>
+            <df name="icon">
+              <df name="include">
+                <in>iconv.h</in>
+              </df>
+              <df name="prebuilt">
+              </df>
+            </df>
+            <df name="zlib">
+              <df name="include">
+                <in>zconf.h</in>
+                <in>zlib.h</in>
+              </df>
+              <df name="prebuilt">
+              </df>
+            </df>
+          </df>
+          <df name="winrt-specific">
+            <df name="angle">
+              <df name="include">
+                <df name="EGL">
+                  <in>egl.h</in>
+                  <in>eglext.h</in>
+                  <in>eglplatform.h</in>
+                </df>
+                <df name="GLES2">
+                  <in>gl2.h</in>
+                  <in>gl2ext.h</in>
+                  <in>gl2platform.h</in>
+                </df>
+                <df name="GLSLANG">
+                  <in>ShaderLang.h</in>
+                </df>
+                <df name="KHR">
+                  <in>khrplatform.h</in>
+                </df>
+                <in>esUtil.h</in>
+                <in>winrtangle.h</in>
+              </df>
+              <df name="prebuilt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+            <df name="zlib">
+              <df name="include">
+                <in>zconf.h</in>
+                <in>zlib.h</in>
+              </df>
+              <df name="prebuilt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="wp8-specific">
+            <df name="angle">
+              <df name="prebuilt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+            <df name="zlib">
+              <df name="include">
+                <in>zconf.h</in>
+                <in>zlib.h</in>
+              </df>
+              <df name="prebuilt">
+                <df name="ARM">
+                </df>
+                <df name="Win32">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="xxhash">
+            <df name="CMakeFiles">
+              <df name="xxhash.dir">
+              </df>
+            </df>
+            <in>xxhash.c</in>
+            <in>xxhash.h</in>
+          </df>
+          <df name="xxtea">
+            <in>xxtea.cpp</in>
+            <in>xxtea.h</in>
+          </df>
+        </df>
+        <df name="licenses">
+        </df>
+        <df name="plugin">
+          <df name="jsbindings">
+            <df name="auto">
+              <df name="api">
+              </df>
+            </df>
+            <df name="manual">
+            </df>
+            <df name="script">
+            </df>
+          </df>
+          <df name="plugins">
+            <df name="admob">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.ios">
+                <df name="Admob">
+                </df>
+                <df name="PluginAdmob.xcodeproj">
+                </df>
+              </df>
+            </df>
+            <df name="alipay">
+              <df name="proj.android">
+                <df name="ForAssets">
+                </df>
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="flurry">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.ios">
+                <df name="FlurryAds">
+                </df>
+                <df name="PluginFlurry.xcodeproj">
+                </df>
+              </df>
+            </df>
+            <df name="googleplay">
+              <df name="proj.android">
+                <df name="src">
+                  <df name="com">
+                    <df name="android">
+                      <df name="vending">
+                        <df name="billing">
+                        </df>
+                      </df>
+                    </df>
+                  </df>
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                        <df name="util">
+                        </df>
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="iosiap">
+              <df name="proj.ios">
+                <df name="IOSIAP">
+                </df>
+                <df name="PluginIAP.xcodeproj">
+                </df>
+              </df>
+            </df>
+            <df name="nd91">
+              <df name="proj.android">
+                <df name="DependProject">
+                  <df name="res">
+                    <df name="anim">
+                    </df>
+                    <df name="drawable">
+                    </df>
+                    <df name="drawable-hdpi">
+                    </df>
+                    <df name="drawable-xhdpi">
+                    </df>
+                    <df name="layout">
+                    </df>
+                    <df name="raw">
+                    </df>
+                    <df name="values">
+                    </df>
+                  </df>
+                </df>
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="qh360">
+              <df name="proj.android">
+                <df name="CLibs">
+                  <df name="armeabi">
+                  </df>
+                  <df name="mips">
+                  </df>
+                </df>
+                <df name="ForAssets">
+                  <df name="res">
+                    <df name="icon">
+                    </df>
+                    <df name="icon-mdpi">
+                    </df>
+                    <df name="Mdpi">
+                    </df>
+                  </df>
+                </df>
+                <df name="ForRes">
+                  <df name="anim">
+                  </df>
+                  <df name="drawable">
+                  </df>
+                  <df name="drawable-hdpi">
+                  </df>
+                  <df name="layout">
+                  </df>
+                  <df name="raw">
+                  </df>
+                  <df name="values">
+                  </df>
+                </df>
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="twitter">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.ios">
+                <df name="FHSTwitterEngine">
+                  <df name="OAuthConsumer">
+                    <df name="Categories">
+                    </df>
+                    <df name="Crytpo">
+                    </df>
+                  </df>
+                </df>
+                <df name="PluginTwitter.xcodeproj">
+                </df>
+              </df>
+            </df>
+            <df name="uc">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="umeng">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.ios">
+                <df name="PluginUmeng.xcodeproj">
+                </df>
+              </df>
+            </df>
+            <df name="weibo">
+              <df name="proj.android">
+                <df name="sdk">
+                </df>
+                <df name="src">
+                  <df name="org">
+                    <df name="cocos2dx">
+                      <df name="plugin">
+                      </df>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="proj.ios">
+                <df name="JSONKit">
+                </df>
+                <df name="PluginWeibo.xcodeproj">
+                </df>
+                <df name="SinaWeibo">
+                  <df name="SinaWeibo.bundle">
+                    <df name="images">
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="protocols">
+            <df name="include">
+            </df>
+            <df name="platform">
+              <df name="android">
+              </df>
+              <df name="ios">
+              </df>
+            </df>
+            <df name="proj.android">
+              <df name="jni">
+              </df>
+              <df name="src">
+                <df name="org">
+                  <df name="cocos2dx">
+                    <df name="plugin">
+                    </df>
+                  </df>
+                </df>
+              </df>
+            </df>
+            <df name="proj.ios">
+              <df name="PluginProtocol.xcodeproj">
+              </df>
+            </df>
+          </df>
+          <df name="tools">
+            <df name="android">
+            </df>
+            <df name="pluginx-bindings-generator">
+              <df name="tojs">
+              </df>
+            </df>
+            <df name="toolsForGame">
+            </df>
+            <df name="toolsForPublish">
+            </df>
+          </df>
+        </df>
+        <df name="tools">
+          <df name="fbx-conv">
+            <df name="mac">
+            </df>
+          </df>
+          <df name="gen-prebuilt">
+          </df>
+          <df name="particle">
+          </df>
+        </df>
+      </df>
+      <df name="lib">
+      </df>
+      <df name="linux-build">
+      </df>
+      <df name="proj.android">
+        <df name="assets">
+          <df name="Blender">
+          </df>
+          <df name="fonts">
+          </df>
+          <df name="Fruits">
+            <df name="partFruits">
+            </df>
+          </df>
+          <df name="SceneMainMenu">
+          </df>
+          <df name="SliceTheFruits">
+          </df>
+        </df>
+        <df name="bin">
+          <df name="classes">
+            <df name="com">
+              <df name="zariba">
+                <df name="pollyshakemaker">
+                </df>
+              </df>
+            </df>
+            <df name="org">
+              <df name="cocos2dx">
+                <df name="cpp">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="dexedLibs">
+          </df>
+          <df name="res">
+            <df name="drawable-hdpi">
+            </df>
+            <df name="drawable-ldpi">
+            </df>
+            <df name="drawable-mdpi">
+            </df>
+          </df>
+        </df>
+        <df name="gen">
+          <df name="com">
+            <df name="zariba">
+              <df name="pollyshakemaker">
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="jni">
+          <df name="hellocpp">
+            <in>main.cpp</in>
+          </df>
+        </df>
+        <df name="libs">
+          <df name="armeabi">
+          </df>
+        </df>
+        <df name="obj">
+          <df name="local">
+            <df name="armeabi">
+              <df name="objs-debug">
+                <df name="box2d_static">
+                  <df name="Collision">
+                    <df name="Shapes">
+                    </df>
+                  </df>
+                  <df name="Common">
+                  </df>
+                  <df name="Dynamics">
+                    <df name="Contacts">
+                    </df>
+                    <df name="Joints">
+                    </df>
+                  </df>
+                  <df name="Rope">
+                  </df>
+                </df>
+                <df name="chipmunk_static">
+                  <df name="src">
+                    <df name="constraints">
+                    </df>
+                  </df>
+                </df>
+                <df name="cocos2dcpp_shared">
+                  <df name="__">
+                    <df name="__">
+                      <df name="Classes">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="hellocpp">
+                  </df>
+                </df>
+                <df name="cocos2dx_static">
+                  <df name="2d">
+                  </df>
+                  <df name="3d">
+                  </df>
+                  <df name="__">
+                    <df name="external">
+                      <df name="ConvertUTF">
+                      </df>
+                      <df name="edtaa3func">
+                      </df>
+                      <df name="tinyxml2">
+                      </df>
+                      <df name="unzip">
+                      </df>
+                      <df name="xxhash">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="base">
+                  </df>
+                  <df name="deprecated">
+                  </df>
+                  <df name="math">
+                  </df>
+                  <df name="physics">
+                    <df name="chipmunk">
+                    </df>
+                  </df>
+                  <df name="platform">
+                  </df>
+                  <df name="renderer">
+                  </df>
+                </df>
+                <df name="cocos2dxandroid_static">
+                  <df name="jni">
+                  </df>
+                </df>
+                <df name="cocosdenshion_static">
+                  <df name="jni">
+                  </df>
+                </df>
+                <df name="cpufeatures">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="res">
+          <df name="drawable-hdpi">
+          </df>
+          <df name="drawable-ldpi">
+          </df>
+          <df name="drawable-mdpi">
+          </df>
+          <df name="values">
+          </df>
+        </df>
+        <df name="src">
+          <df name="org">
+            <df name="cocos2dx">
+              <df name="cpp">
+              </df>
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="proj.ios_mac">
+        <df name="ios">
+          <in>AppController.h</in>
+          <in>AppController.mm</in>
+          <in>RootViewController.h</in>
+          <in>RootViewController.mm</in>
+          <in>main.m</in>
+        </df>
+        <df name="mac">
+          <in>main.cpp</in>
+        </df>
+        <df name="PollyShakeMaker.xcodeproj">
+        </df>
+      </df>
+      <df name="proj.linux">
+        <in>main.cpp</in>
+      </df>
+      <df name="proj.win32">
+        <df name="res">
+        </df>
+        <in>main.cpp</in>
+        <in>main.h</in>
+        <in>resource.h</in>
+      </df>
+      <df name="proj.wp8-xaml">
+        <df name="App">
+          <df name="Assets">
+            <df name="Tiles">
+            </df>
+          </df>
+          <df name="Properties">
+          </df>
+          <df name="Resources">
+          </df>
+        </df>
+        <df name="AppComponent">
+          <df name="src">
+            <in>Cocos2dRenderer.cpp</in>
+            <in>Cocos2dRenderer.h</in>
+            <in>Direct3DContentProvider.cpp</in>
+            <in>Direct3DContentProvider.h</in>
+            <in>Direct3DInterop.cpp</in>
+            <in>Direct3DInterop.h</in>
+            <in>DirectXBase.cpp</in>
+            <in>DirectXBase.h</in>
+            <in>DirectXHelper.h</in>
+            <in>EditBoxEvent.cpp</in>
+            <in>EditBoxEvent.h</in>
+          </df>
+          <in>pch.cpp</in>
+          <in>pch.h</in>
+        </df>
+      </df>
+      <df name="Resources">
+        <df name="Blender">
+        </df>
+        <df name="fonts">
+        </df>
+        <df name="Fruits">
+          <df name="partFruits">
+          </df>
+        </df>
+        <df name="SceneMainMenu">
+        </df>
+        <df name="SliceTheFruits">
+        </df>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

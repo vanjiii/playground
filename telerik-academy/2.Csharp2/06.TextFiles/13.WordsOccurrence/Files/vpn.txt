@@ -1,0 +1,10 @@
+A virtual private network (VPN) extends a private network across a public network, such as the Internet. 
+It enables a computer to send and receive data across shared or public networks as if it were directly connected to the private network, while benefiting from the functionality, security and management policies of the private network.
+This is done by establishing a virtual point-to-point connection through the use of dedicated connections, encryption, or a combination of the two.
+
+A VPN connection across the Internet is similar to a wide area network (WAN) link between the sites. 
+From a user perspective, the extended network resources are accessed in the same way as resources available from the private network.
+
+VPNs allow employees to securely access their company's intranet while traveling outside the office. 
+Similarly, VPNs securely and cost-effectively connect geographically disparate offices of an organization, creating one cohesive virtual network. 
+VPN technology is also used by ordinary Internet users to connect to proxy servers for the purpose of protecting one's identity.

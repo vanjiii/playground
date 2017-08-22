@@ -1,0 +1,5 @@
+Martin -> string
+Petrov  -> string
+38  -> byte
+True  -> bool
+27561122  -> int

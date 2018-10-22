@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Network | Basic usage</title>
+
+    <script type="text/javascript" src="./vis.js"></script>
+    <link href="./vis-network.min.css" rel="stylesheet" type="text/css" />
+
+    <style type="text/css">
+      #mynetwork {
+          width: 600px;
+          height: 400px;
+          border: 1px solid lightgray;
+      }
+    </style>
+  </head>
+  <body>
+
+    <p>
+      Create a simple network with some nodes and edges.
+    </p>
+
+    <div id="mynetwork"></div>
+
+    <script type="text/javascript">
+      // create an array with nodes
+      var nodes = new vis.DataSet([
+          {id: 1, label: 'init takedown'},
+          {id: 2, label: 'pull guard'},
+          {id: 3, label: 'side control'},
+          {id: 4, label: 'close guard'},
+          {id: 5, label: 'de la riva'},
+          {id: 6, label: 'de la riva-sweep'},
+          {id: 7, label: 'arm bar from close guard'}
+      ]);
+
+      // create an array with edges
+      var edges = new vis.DataSet([
+          {from: 1, to: 3},
+          {from: 2, to: 3},
+          {from: 2, to: 5},
+          {from: 5, to: 6},
+          {from: 4, to: 7}
+      ]);
+
+      // create a network
+      var container = document.getElementById('mynetwork');
+      var data = {
+          nodes: nodes,
+          edges: edges
+      };
+      var options = {};
+      var network = new vis.Network(container, data, options);
+
+      network.on( 'click', function(properties) {
+          var ids = properties.nodes;
+          var clickedNodes = nodes.get(ids);
+          findLink(clickedNodes)
+      });
+
+
+      function findLink(id) {
+          switch (id[0].id){
+          case 1:
+              window.open("https://en.wikipedia.org/wiki/Takedown", "_self");
+              break;
+          case 2:
+              window.open("https://forum.bodybuilding.com/showthread.php?t=130395813", "_self");
+              break;
+          case 3:
+              window.open("https://en.wikipedia.org/wiki/Side_control", "_self");
+              break;
+          case 4:
+              window.open("https://en.wikipedia.org/wiki/Guard_(grappling)", "_self");
+              break;
+          case 5:
+              window.open("https://www.bjjheroes.com/bjj-fighters/ricardo-de-la-riva-wiki-bio", "_self");
+              break;
+          case 6:
+              window.open("https://bjjfanatics.com/blogs/news/go-to-de-la-riva-sweeps", "_self");
+              break;
+          case 7:
+              window.open("https://www.grapplearts.com/rear-mount-to-armbar", "_self");
+              break;
+          }
+      }
+    </script>
+
+
+  </body>
+</html>

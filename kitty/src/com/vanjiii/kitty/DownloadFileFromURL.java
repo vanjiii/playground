@@ -27,7 +27,7 @@ public class DownloadFileFromURL extends AsyncTask<String, String, String> {
      public static final int progress_bar_type = 0;
      private Activity mainActivity = null;
      private Context mainContext = null;
-     
+
      final private File SDCardRoot = Environment.getExternalStorageDirectory();
 
      public DownloadFileFromURL(Activity a,Context c){
@@ -56,7 +56,7 @@ public class DownloadFileFromURL extends AsyncTask<String, String, String> {
              // download the file
              InputStream input = new BufferedInputStream(url.openStream(),8192);
              /* Output stream
-              * 
+              *
               */
              OutputStream output = new FileOutputStream(new File(SDCardRoot, "kitty.gif"));
              byte data[] = new byte[1024];

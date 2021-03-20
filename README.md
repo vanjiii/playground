@@ -1,2 +1,3 @@
 # Playground
- Various non-important projects
+
+Various non-important projects.

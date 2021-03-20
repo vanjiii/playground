@@ -10,18 +10,3 @@ Mango* Mango::createMango(const char *FileName) {
     CC_SAFE_DELETE(sprite);
     return NULL;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -10,19 +10,3 @@ Orange* Orange::createOrange(const char *FileName) {
     CC_SAFE_DELETE(sprite);
     return NULL;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

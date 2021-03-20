@@ -11,12 +11,3 @@ Strawberry* Strawberry::createStrawberry(const char *FileName) {
     return NULL;
 
 }
-
-
-
-
-
-
-
-
-
